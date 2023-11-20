@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(186, 186, 186);
+    background-color: rgb(135, 207, 19);
     display: table;
     width: 100%;
 }
@@ -45,7 +45,7 @@ nav a {
 }
 
 nav a:hover {
-	color: #ff0000;
+	color: #618a21;
 }
 
 
@@ -61,7 +61,7 @@ footer {
 }
 
 .copyright {
-	color: #FFFFFF;
+	color: #d85c09;
 	font-size: 15px;
 	margin: 20px 0 0;
 }
